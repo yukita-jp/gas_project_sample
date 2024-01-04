@@ -15,6 +15,12 @@ limitations under the License.
 -->
 # gas_project_sample
 
+## 静的解析(Linter)
+$ npm run lint
+
+## テスト
+$ npm run test
+
 ## デプロイ
 ### 開発環境にデプロイ
 $ npm run deploy
